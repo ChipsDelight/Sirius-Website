@@ -1,0 +1,88 @@
+
+body {
+  background-image: linear-gradient(to right, #021B79 , #0575E6);
+}
+
+
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+#lottie{
+    width:200%;
+    height:200%;
+    overflow: hidden;
+    transform: translate3d(0,0,0);
+    opacity: 1;
+    margin-top: -40%;
+    margin-left: -40%;
+}
+
+.imageSize {
+ width: 90%;
+ height: 90%;
+ border-radius: 30%;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar a {
+  color: white;
+  font-size: 1.5rem;
+  margin-right: 40px;
+}
+
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+
+.intro {
+  color: white;
+}
+
+.intro-1 {
+  font-size: 2rem;
+}
+
+.intro-2 {
+  font-size: 4rem;
+  line-height: 120%;
+  color: gold;
+}
+
+.intro-3 {
+  font-size: 2rem;
+}
+
+
+.btn {
+  margin: 1%;
+}
+
+.custom-btn1 {
+  background-color: #7f5eff;
+  color: white;
+  padding: 10px 10px;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  border-radius: .8rem;
+}
+
+.custom-btn2 {
+  padding: 10px 10px;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  border-radius: .8rem;
+  background-color: transparent;
+  color: white;
+  border-color: #7f5eff;
+  border-width: 3px;
+
+
+}
